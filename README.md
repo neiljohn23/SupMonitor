@@ -5,7 +5,7 @@ Prerequisites: Must have php installed and apache server setup and running.
 
 Instructions:
 1. Download and unzip this repository by selecting Clone or Download/Download ZIP and drag the new folder to your desktop.
-2. Open the folder, and open the file DBConfig.php with your text editor. Enter your host, username, and password for your SQL server. Save the file and close it.
+2. Open the folder, and open the file DBConfig.php with your text editor. Enter the host, username, and password for your SQL server. Save the file and close it.
 3. Open terminal and enter:(No quotation marks)
 "cd /Desktop/SupMonitor-master && php DBCreate.php"
 If you have configured correctly, you should see "Database created successfully," and, "Table created successfully" without error.
