@@ -8,7 +8,7 @@ Instructions:
 2. Open the folder, and open the file DBConfig.php with your text editor. Enter the host, username, and password for your SQL server. Save the file and close it.
 3. Open terminal and enter:(No quotation marks)
 "cd /Desktop/SupMonitor-master && php DBCreate.php"
-If you have configured correctly, you should see "Database created successfully," and, "Table created successfully" without error.
+If you have configured correctly, you should see "Database created successfully," and "Table created successfully" without error.
 4. To run the monitor enter:
 "cd && cd /Desktop/SupMonitor-master && php supMonitor.php"
 The monitor should now run continuously.
