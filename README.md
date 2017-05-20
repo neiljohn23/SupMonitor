@@ -1,5 +1,6 @@
 # SupremeMonitor
 Monitors stock of supremenewyork.com
+**NOTE this program is for research purposes only, and should not be used to strain supreme's servers**
 
 Prerequisites: Must have php installed and apache server setup and running.
 
